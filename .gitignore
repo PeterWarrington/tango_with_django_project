@@ -1,2 +1,3 @@
 Conda.terminal
 .DS_Store
+__pycache__
